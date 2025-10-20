@@ -1,0 +1,9 @@
+{
+  "name": "SparkMeet",
+  "description": "A modern video conferencing application featuring real-time transcription and a conversational AI assistant, powered by the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ]
+}
